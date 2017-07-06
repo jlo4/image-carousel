@@ -1,0 +1,36 @@
+
+.show {
+  display: inline-block;
+}
+
+.hide {
+  display: none;
+}
+
+.page {
+  height: 50%;
+  margin: 0 auto;
+  width: 50%;
+}
+.carousel {
+  float: left;
+  height: 92%;
+  width: 92%;
+}
+
+img {
+  height: 100%;
+  width: 100%;
+}
+
+a {
+  float: left;
+}
+
+.previous {
+  margin: 200px 20px 0 0;
+}
+
+.next {
+  margin: 200px 0 0 20px;
+}
