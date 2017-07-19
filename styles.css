@@ -9,9 +9,13 @@
   width: 0;
 }
 
+h1 {
+  font-size: 7rem;
+  text-align: center;
+}
 .page {
   height: 50%;
-  margin: 0 auto;
+  margin: 10% auto;
   width: 50%;
 }
 .carousel {
@@ -22,17 +26,18 @@
 
 img {
   height: 100%;
-  width: 100%;
+  width: 97%;
 }
 
 a {
   float: left;
+  font-size: 3rem;
 }
 
 .previous {
-  margin: 200px 20px 0 0;
+  margin: 22% 3.2% 0 0;
 }
 
 .next {
-  margin: 200px 0 0 20px;
+  margin: 22% 0 0 .2%;
 }
