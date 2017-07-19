@@ -1,3 +1,6 @@
+body {
+  background: #E4DFDA;
+}
 
 .show {
   display: inline-block;
@@ -31,13 +34,14 @@ img {
 
 a {
   float: left;
-  font-size: 3rem;
 }
 
 .previous {
+  font-size: 3rem;
   margin: 22% 3.2% 0 0;
 }
 
 .next {
+  font-size: 3rem;
   margin: 22% 0 0 .2%;
 }
