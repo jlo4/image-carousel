@@ -95,10 +95,16 @@ nav > ul > li {
 	 padding: 2% 15% 0 0;
 }
 
-nav > ul > li > a {
+a {
 	color: white;
 	text-decoration: none;
 }
+
+a:hover {
+	color: white;
+	text-decoration: none;
+}
+
 
 .hamburger {
 	display: none;
